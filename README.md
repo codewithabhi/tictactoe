@@ -1,2 +1,2 @@
 # tictactoe
-Tic Tac Toe Game in c
+Tic Tac Toe Game in c Language
